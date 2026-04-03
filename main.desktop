@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=单目视觉测距程序
+Exec=bash /home/jetson/Desktop/202508/run_main.sh
+Icon=application-x-executable
+Path=/home/jetson/Desktop/202508
+Terminal=true
+Categories=Utility;
